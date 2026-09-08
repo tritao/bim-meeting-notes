@@ -1,11 +1,16 @@
-# FreeCAD BIM meeting notes
+# FreeCAD BIM meetings
 
 Shared notes from FreeCAD BIM maintainer and contributor meetings.
 
-## Meetings
+## Minutes
 
-- [1 September 2026](notes/2026-09-01.md)
-- [8 September 2026](notes/2026-09-08.md)
+- [1 September 2026](Minutes/2026-09-01.md)
+- [8 September 2026](Minutes/2026-09-08.md)
+
+## Agendas
+
+Upcoming meeting agendas belong in [`Agendas/`](Agendas/README.md). Meeting
+notes are moved to [`Minutes/`](Minutes/) after each meeting.
 
 ## Original notes
 
